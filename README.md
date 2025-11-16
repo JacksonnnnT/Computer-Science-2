@@ -18,7 +18,7 @@ This code is for educational purposes only and reflects my work from class.
 ## 🚀 Technologies  
 This repository may include work in various programming languages and technologies used throughout the course, such as:  
 - C++  
-
+- C
 ## 📝 License  
 This code is not intended for commercial use. Feel free to explore, but please respect academic integrity!  
 
